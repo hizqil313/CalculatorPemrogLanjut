@@ -1,0 +1,15 @@
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\bin\Debug\Calculator.exe.config
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.FrmCalculator.resources
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.FrmHasilPerhitungan.resources
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.exe
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\bin\Debug\Calculator.exe.manifest
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\bin\Debug\Calculator.application
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.exe.manifest
+D:\Hizqil\Pemrog Lanjut\Tugas\Calculator\Calculator\obj\Debug\Calculator.application
